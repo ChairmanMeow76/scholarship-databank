@@ -1,0 +1,1475 @@
+id,scholarship_id,discipline
+1,1,Business and finance
+2,7,Business and finance
+3,19,Business and finance
+4,22,Business and finance
+5,28,Business and finance
+6,29,Business and finance
+7,32,Business and finance
+8,47,Business and finance
+9,58,Business and finance
+10,63,Business and finance
+11,65,Business and finance
+12,101,Business and finance
+13,102,Business and finance
+14,106,Business and finance
+15,108,Business and finance
+16,110,Business and finance
+17,115,Business and finance
+18,116,Business and finance
+19,117,Business and finance
+20,124,Business and finance
+21,134,Business and finance
+22,135,Business and finance
+23,144,Business and finance
+24,150,Business and finance
+25,168,Business and finance
+26,170,Business and finance
+27,177,Business and finance
+28,181,Business and finance
+29,182,Business and finance
+30,188,Business and finance
+31,190,Business and finance
+32,191,Business and finance
+33,201,Business and finance
+34,205,Business and finance
+35,207,Business and finance
+36,214,Business and finance
+37,238,Business and finance
+38,245,Business and finance
+39,271,Business and finance
+40,282,Business and finance
+41,284,Business and finance
+42,288,Business and finance
+43,289,Business and finance
+44,298,Business and finance
+45,301,Business and finance
+46,305,Business and finance
+47,306,Business and finance
+48,318,Business and finance
+49,350,Business and finance
+50,356,Business and finance
+51,379,Business and finance
+52,381,Business and finance
+53,385,Business and finance
+54,390,Business and finance
+55,400,Business and finance
+56,410,Business and finance
+57,428,Business and finance
+58,453,Business and finance
+59,482,Business and finance
+60,485,Business and finance
+61,487,Business and finance
+62,489,Business and finance
+63,490,Business and finance
+64,499,Business and finance
+65,500,Business and finance
+66,501,Business and finance
+67,506,Business and finance
+68,513,Business and finance
+69,521,Business and finance
+70,522,Business and finance
+71,524,Business and finance
+72,529,Business and finance
+73,534,Business and finance
+74,538,Business and finance
+75,545,Business and finance
+76,547,Business and finance
+77,552,Business and finance
+78,555,Business and finance
+79,561,Business and finance
+80,564,Business and finance
+81,576,Business and finance
+82,616,Business and finance
+83,617,Business and finance
+84,618,Business and finance
+85,627,Business and finance
+86,632,Business and finance
+87,639,Business and finance
+88,640,Business and finance
+89,641,Business and finance
+90,651,Business and finance
+91,690,Business and finance
+92,699,Business and finance
+93,710,Business and finance
+94,713,Business and finance
+95,714,Business and finance
+96,732,Business and finance
+97,745,Business and finance
+98,757,Business and finance
+99,763,Business and finance
+100,778,Business and finance
+101,793,Business and finance
+102,794,Business and finance
+103,809,Business and finance
+104,822,Business and finance
+105,823,Business and finance
+106,824,Business and finance
+107,826,Business and finance
+108,846,Business and finance
+109,863,Business and finance
+110,878,Business and finance
+111,880,Business and finance
+112,884,Business and finance
+113,897,Business and finance
+114,906,Business and finance
+115,923,Business and finance
+116,936,Business and finance
+117,960,Business and finance
+118,964,Business and finance
+119,969,Business and finance
+120,978,Business and finance
+121,997,Business and finance
+122,999,Business and finance
+123,1008,Business and finance
+124,1014,Business and finance
+125,1015,Business and finance
+126,1020,Business and finance
+127,1023,Business and finance
+128,1037,Business and finance
+129,1055,Business and finance
+130,1056,Business and finance
+131,1069,Business and finance
+132,1071,Business and finance
+133,1077,Business and finance
+134,1090,Business and finance
+135,1105,Business and finance
+136,1132,Business and finance
+137,1133,Business and finance
+138,1140,Business and finance
+139,1163,Business and finance
+140,1181,Business and finance
+141,1184,Business and finance
+142,2,Multidisciplinary
+143,4,Multidisciplinary
+144,5,Multidisciplinary
+145,6,Multidisciplinary
+146,8,Multidisciplinary
+147,10,Multidisciplinary
+148,11,Multidisciplinary
+149,13,Multidisciplinary
+150,14,Multidisciplinary
+151,15,Multidisciplinary
+152,17,Multidisciplinary
+153,19,Multidisciplinary
+154,20,Multidisciplinary
+155,21,Multidisciplinary
+156,23,Multidisciplinary
+157,25,Multidisciplinary
+158,27,Multidisciplinary
+159,31,Multidisciplinary
+160,34,Multidisciplinary
+161,35,Multidisciplinary
+162,36,Multidisciplinary
+163,37,Multidisciplinary
+164,38,Multidisciplinary
+165,39,Multidisciplinary
+166,40,Multidisciplinary
+167,41,Multidisciplinary
+168,42,Multidisciplinary
+169,43,Multidisciplinary
+170,45,Multidisciplinary
+171,48,Multidisciplinary
+172,49,Multidisciplinary
+173,52,Multidisciplinary
+174,53,Multidisciplinary
+175,54,Multidisciplinary
+176,56,Multidisciplinary
+177,57,Multidisciplinary
+178,60,Multidisciplinary
+179,64,Multidisciplinary
+180,68,Multidisciplinary
+181,71,Multidisciplinary
+182,73,Multidisciplinary
+183,74,Multidisciplinary
+184,75,Multidisciplinary
+185,76,Multidisciplinary
+186,78,Multidisciplinary
+187,79,Multidisciplinary
+188,80,Multidisciplinary
+189,81,Multidisciplinary
+190,82,Multidisciplinary
+191,83,Multidisciplinary
+192,84,Multidisciplinary
+193,85,Multidisciplinary
+194,86,Multidisciplinary
+195,87,Multidisciplinary
+196,88,Multidisciplinary
+197,89,Multidisciplinary
+198,92,Multidisciplinary
+199,93,Multidisciplinary
+200,94,Multidisciplinary
+201,95,Multidisciplinary
+202,97,Multidisciplinary
+203,99,Multidisciplinary
+204,101,Multidisciplinary
+205,104,Multidisciplinary
+206,107,Multidisciplinary
+207,109,Multidisciplinary
+208,111,Multidisciplinary
+209,112,Multidisciplinary
+210,113,Multidisciplinary
+211,118,Multidisciplinary
+212,119,Multidisciplinary
+213,120,Multidisciplinary
+214,122,Multidisciplinary
+215,123,Multidisciplinary
+216,126,Multidisciplinary
+217,127,Multidisciplinary
+218,128,Multidisciplinary
+219,130,Multidisciplinary
+220,131,Multidisciplinary
+221,132,Multidisciplinary
+222,133,Multidisciplinary
+223,137,Multidisciplinary
+224,138,Multidisciplinary
+225,139,Multidisciplinary
+226,141,Multidisciplinary
+227,142,Multidisciplinary
+228,143,Multidisciplinary
+229,146,Multidisciplinary
+230,147,Multidisciplinary
+231,151,Multidisciplinary
+232,154,Multidisciplinary
+233,156,Multidisciplinary
+234,158,Multidisciplinary
+235,159,Multidisciplinary
+236,160,Multidisciplinary
+237,161,Multidisciplinary
+238,162,Multidisciplinary
+239,163,Multidisciplinary
+240,164,Multidisciplinary
+241,169,Multidisciplinary
+242,171,Multidisciplinary
+243,172,Multidisciplinary
+244,173,Multidisciplinary
+245,174,Multidisciplinary
+246,175,Multidisciplinary
+247,180,Multidisciplinary
+248,183,Multidisciplinary
+249,185,Multidisciplinary
+250,186,Multidisciplinary
+251,189,Multidisciplinary
+252,193,Multidisciplinary
+253,196,Multidisciplinary
+254,198,Multidisciplinary
+255,199,Multidisciplinary
+256,200,Multidisciplinary
+257,202,Multidisciplinary
+258,203,Multidisciplinary
+259,204,Multidisciplinary
+260,206,Multidisciplinary
+261,208,Multidisciplinary
+262,209,Multidisciplinary
+263,210,Multidisciplinary
+264,211,Multidisciplinary
+265,212,Multidisciplinary
+266,215,Multidisciplinary
+267,216,Multidisciplinary
+268,218,Multidisciplinary
+269,219,Multidisciplinary
+270,220,Multidisciplinary
+271,221,Multidisciplinary
+272,223,Multidisciplinary
+273,225,Multidisciplinary
+274,227,Multidisciplinary
+275,228,Multidisciplinary
+276,229,Multidisciplinary
+277,230,Multidisciplinary
+278,231,Multidisciplinary
+279,234,Multidisciplinary
+280,235,Multidisciplinary
+281,236,Multidisciplinary
+282,237,Multidisciplinary
+283,239,Multidisciplinary
+284,240,Multidisciplinary
+285,246,Multidisciplinary
+286,247,Multidisciplinary
+287,248,Multidisciplinary
+288,249,Multidisciplinary
+289,250,Multidisciplinary
+290,251,Multidisciplinary
+291,253,Multidisciplinary
+292,254,Multidisciplinary
+293,255,Multidisciplinary
+294,256,Multidisciplinary
+295,257,Multidisciplinary
+296,258,Multidisciplinary
+297,259,Multidisciplinary
+298,260,Multidisciplinary
+299,261,Multidisciplinary
+300,264,Multidisciplinary
+301,265,Multidisciplinary
+302,266,Multidisciplinary
+303,267,Multidisciplinary
+304,268,Multidisciplinary
+305,269,Multidisciplinary
+306,270,Multidisciplinary
+307,272,Multidisciplinary
+308,273,Multidisciplinary
+309,274,Multidisciplinary
+310,275,Multidisciplinary
+311,277,Multidisciplinary
+312,279,Multidisciplinary
+313,281,Multidisciplinary
+314,283,Multidisciplinary
+315,285,Multidisciplinary
+316,286,Multidisciplinary
+317,290,Multidisciplinary
+318,292,Multidisciplinary
+319,295,Multidisciplinary
+320,296,Multidisciplinary
+321,297,Multidisciplinary
+322,299,Multidisciplinary
+323,300,Multidisciplinary
+324,302,Multidisciplinary
+325,303,Multidisciplinary
+326,308,Multidisciplinary
+327,309,Multidisciplinary
+328,310,Multidisciplinary
+329,311,Multidisciplinary
+330,312,Multidisciplinary
+331,313,Multidisciplinary
+332,314,Multidisciplinary
+333,315,Multidisciplinary
+334,316,Multidisciplinary
+335,317,Multidisciplinary
+336,319,Multidisciplinary
+337,321,Multidisciplinary
+338,322,Multidisciplinary
+339,323,Multidisciplinary
+340,325,Multidisciplinary
+341,327,Multidisciplinary
+342,328,Multidisciplinary
+343,332,Multidisciplinary
+344,333,Multidisciplinary
+345,334,Multidisciplinary
+346,335,Multidisciplinary
+347,338,Multidisciplinary
+348,339,Multidisciplinary
+349,341,Multidisciplinary
+350,342,Multidisciplinary
+351,343,Multidisciplinary
+352,344,Multidisciplinary
+353,346,Multidisciplinary
+354,347,Multidisciplinary
+355,348,Multidisciplinary
+356,351,Multidisciplinary
+357,354,Multidisciplinary
+358,355,Multidisciplinary
+359,357,Multidisciplinary
+360,359,Multidisciplinary
+361,360,Multidisciplinary
+362,362,Multidisciplinary
+363,363,Multidisciplinary
+364,364,Multidisciplinary
+365,369,Multidisciplinary
+366,370,Multidisciplinary
+367,373,Multidisciplinary
+368,374,Multidisciplinary
+369,375,Multidisciplinary
+370,377,Multidisciplinary
+371,378,Multidisciplinary
+372,380,Multidisciplinary
+373,382,Multidisciplinary
+374,383,Multidisciplinary
+375,386,Multidisciplinary
+376,387,Multidisciplinary
+377,388,Multidisciplinary
+378,391,Multidisciplinary
+379,392,Multidisciplinary
+380,393,Multidisciplinary
+381,394,Multidisciplinary
+382,395,Multidisciplinary
+383,396,Multidisciplinary
+384,397,Multidisciplinary
+385,399,Multidisciplinary
+386,401,Multidisciplinary
+387,402,Multidisciplinary
+388,403,Multidisciplinary
+389,404,Multidisciplinary
+390,405,Multidisciplinary
+391,406,Multidisciplinary
+392,407,Multidisciplinary
+393,409,Multidisciplinary
+394,411,Multidisciplinary
+395,412,Multidisciplinary
+396,413,Multidisciplinary
+397,414,Multidisciplinary
+398,415,Multidisciplinary
+399,416,Multidisciplinary
+400,419,Multidisciplinary
+401,420,Multidisciplinary
+402,421,Multidisciplinary
+403,422,Multidisciplinary
+404,423,Multidisciplinary
+405,424,Multidisciplinary
+406,425,Multidisciplinary
+407,426,Multidisciplinary
+408,427,Multidisciplinary
+409,433,Multidisciplinary
+410,434,Multidisciplinary
+411,436,Multidisciplinary
+412,437,Multidisciplinary
+413,438,Multidisciplinary
+414,439,Multidisciplinary
+415,441,Multidisciplinary
+416,442,Multidisciplinary
+417,444,Multidisciplinary
+418,446,Multidisciplinary
+419,447,Multidisciplinary
+420,454,Multidisciplinary
+421,455,Multidisciplinary
+422,457,Multidisciplinary
+423,458,Multidisciplinary
+424,459,Multidisciplinary
+425,460,Multidisciplinary
+426,462,Multidisciplinary
+427,463,Multidisciplinary
+428,465,Multidisciplinary
+429,466,Multidisciplinary
+430,467,Multidisciplinary
+431,468,Multidisciplinary
+432,470,Multidisciplinary
+433,471,Multidisciplinary
+434,472,Multidisciplinary
+435,473,Multidisciplinary
+436,474,Multidisciplinary
+437,475,Multidisciplinary
+438,478,Multidisciplinary
+439,479,Multidisciplinary
+440,480,Multidisciplinary
+441,481,Multidisciplinary
+442,484,Multidisciplinary
+443,492,Multidisciplinary
+444,493,Multidisciplinary
+445,494,Multidisciplinary
+446,495,Multidisciplinary
+447,497,Multidisciplinary
+448,498,Multidisciplinary
+449,502,Multidisciplinary
+450,503,Multidisciplinary
+451,504,Multidisciplinary
+452,509,Multidisciplinary
+453,511,Multidisciplinary
+454,512,Multidisciplinary
+455,514,Multidisciplinary
+456,515,Multidisciplinary
+457,516,Multidisciplinary
+458,518,Multidisciplinary
+459,519,Multidisciplinary
+460,520,Multidisciplinary
+461,525,Multidisciplinary
+462,526,Multidisciplinary
+463,527,Multidisciplinary
+464,528,Multidisciplinary
+465,531,Multidisciplinary
+466,532,Multidisciplinary
+467,533,Multidisciplinary
+468,535,Multidisciplinary
+469,536,Multidisciplinary
+470,537,Multidisciplinary
+471,539,Multidisciplinary
+472,540,Multidisciplinary
+473,541,Multidisciplinary
+474,543,Multidisciplinary
+475,546,Multidisciplinary
+476,548,Multidisciplinary
+477,549,Multidisciplinary
+478,556,Multidisciplinary
+479,557,Multidisciplinary
+480,558,Multidisciplinary
+481,559,Multidisciplinary
+482,560,Multidisciplinary
+483,563,Multidisciplinary
+484,565,Multidisciplinary
+485,566,Multidisciplinary
+486,567,Multidisciplinary
+487,568,Multidisciplinary
+488,569,Multidisciplinary
+489,570,Multidisciplinary
+490,573,Multidisciplinary
+491,574,Multidisciplinary
+492,577,Multidisciplinary
+493,578,Multidisciplinary
+494,579,Multidisciplinary
+495,580,Multidisciplinary
+496,582,Multidisciplinary
+497,584,Multidisciplinary
+498,585,Multidisciplinary
+499,586,Multidisciplinary
+500,587,Multidisciplinary
+501,588,Multidisciplinary
+502,589,Multidisciplinary
+503,590,Multidisciplinary
+504,592,Multidisciplinary
+505,593,Multidisciplinary
+506,595,Multidisciplinary
+507,598,Multidisciplinary
+508,600,Multidisciplinary
+509,601,Multidisciplinary
+510,602,Multidisciplinary
+511,603,Multidisciplinary
+512,604,Multidisciplinary
+513,606,Multidisciplinary
+514,609,Multidisciplinary
+515,611,Multidisciplinary
+516,612,Multidisciplinary
+517,615,Multidisciplinary
+518,617,Multidisciplinary
+519,618,Multidisciplinary
+520,619,Multidisciplinary
+521,621,Multidisciplinary
+522,622,Multidisciplinary
+523,623,Multidisciplinary
+524,624,Multidisciplinary
+525,625,Multidisciplinary
+526,628,Multidisciplinary
+527,629,Multidisciplinary
+528,630,Multidisciplinary
+529,631,Multidisciplinary
+530,634,Multidisciplinary
+531,635,Multidisciplinary
+532,637,Multidisciplinary
+533,638,Multidisciplinary
+534,643,Multidisciplinary
+535,644,Multidisciplinary
+536,647,Multidisciplinary
+537,648,Multidisciplinary
+538,649,Multidisciplinary
+539,651,Multidisciplinary
+540,654,Multidisciplinary
+541,656,Multidisciplinary
+542,657,Multidisciplinary
+543,659,Multidisciplinary
+544,660,Multidisciplinary
+545,661,Multidisciplinary
+546,662,Multidisciplinary
+547,663,Multidisciplinary
+548,664,Multidisciplinary
+549,666,Multidisciplinary
+550,667,Multidisciplinary
+551,672,Multidisciplinary
+552,673,Multidisciplinary
+553,674,Multidisciplinary
+554,675,Multidisciplinary
+555,676,Multidisciplinary
+556,677,Multidisciplinary
+557,678,Multidisciplinary
+558,679,Multidisciplinary
+559,681,Multidisciplinary
+560,683,Multidisciplinary
+561,685,Multidisciplinary
+562,686,Multidisciplinary
+563,687,Multidisciplinary
+564,691,Multidisciplinary
+565,692,Multidisciplinary
+566,693,Multidisciplinary
+567,694,Multidisciplinary
+568,695,Multidisciplinary
+569,696,Multidisciplinary
+570,697,Multidisciplinary
+571,698,Multidisciplinary
+572,700,Multidisciplinary
+573,701,Multidisciplinary
+574,702,Multidisciplinary
+575,704,Multidisciplinary
+576,706,Multidisciplinary
+577,709,Multidisciplinary
+578,711,Multidisciplinary
+579,716,Multidisciplinary
+580,717,Multidisciplinary
+581,718,Multidisciplinary
+582,719,Multidisciplinary
+583,722,Multidisciplinary
+584,723,Multidisciplinary
+585,724,Multidisciplinary
+586,725,Multidisciplinary
+587,726,Multidisciplinary
+588,727,Multidisciplinary
+589,728,Multidisciplinary
+590,729,Multidisciplinary
+591,732,Multidisciplinary
+592,733,Multidisciplinary
+593,734,Multidisciplinary
+594,735,Multidisciplinary
+595,737,Multidisciplinary
+596,738,Multidisciplinary
+597,741,Multidisciplinary
+598,742,Multidisciplinary
+599,744,Multidisciplinary
+600,747,Multidisciplinary
+601,752,Multidisciplinary
+602,760,Multidisciplinary
+603,761,Multidisciplinary
+604,762,Multidisciplinary
+605,766,Multidisciplinary
+606,768,Multidisciplinary
+607,771,Multidisciplinary
+608,772,Multidisciplinary
+609,773,Multidisciplinary
+610,774,Multidisciplinary
+611,775,Multidisciplinary
+612,776,Multidisciplinary
+613,777,Multidisciplinary
+614,780,Multidisciplinary
+615,781,Multidisciplinary
+616,782,Multidisciplinary
+617,783,Multidisciplinary
+618,785,Multidisciplinary
+619,786,Multidisciplinary
+620,787,Multidisciplinary
+621,789,Multidisciplinary
+622,790,Multidisciplinary
+623,791,Multidisciplinary
+624,795,Multidisciplinary
+625,796,Multidisciplinary
+626,797,Multidisciplinary
+627,801,Multidisciplinary
+628,802,Multidisciplinary
+629,803,Multidisciplinary
+630,804,Multidisciplinary
+631,805,Multidisciplinary
+632,806,Multidisciplinary
+633,807,Multidisciplinary
+634,808,Multidisciplinary
+635,812,Multidisciplinary
+636,813,Multidisciplinary
+637,814,Multidisciplinary
+638,815,Multidisciplinary
+639,816,Multidisciplinary
+640,818,Multidisciplinary
+641,820,Multidisciplinary
+642,821,Multidisciplinary
+643,827,Multidisciplinary
+644,831,Multidisciplinary
+645,832,Multidisciplinary
+646,834,Multidisciplinary
+647,836,Multidisciplinary
+648,837,Multidisciplinary
+649,838,Multidisciplinary
+650,839,Multidisciplinary
+651,840,Multidisciplinary
+652,842,Multidisciplinary
+653,845,Multidisciplinary
+654,849,Multidisciplinary
+655,850,Multidisciplinary
+656,851,Multidisciplinary
+657,852,Multidisciplinary
+658,854,Multidisciplinary
+659,855,Multidisciplinary
+660,856,Multidisciplinary
+661,857,Multidisciplinary
+662,858,Multidisciplinary
+663,859,Multidisciplinary
+664,860,Multidisciplinary
+665,862,Multidisciplinary
+666,864,Multidisciplinary
+667,865,Multidisciplinary
+668,866,Multidisciplinary
+669,869,Multidisciplinary
+670,870,Multidisciplinary
+671,872,Multidisciplinary
+672,874,Multidisciplinary
+673,876,Multidisciplinary
+674,879,Multidisciplinary
+675,881,Multidisciplinary
+676,882,Multidisciplinary
+677,885,Multidisciplinary
+678,886,Multidisciplinary
+679,889,Multidisciplinary
+680,891,Multidisciplinary
+681,892,Multidisciplinary
+682,893,Multidisciplinary
+683,895,Multidisciplinary
+684,896,Multidisciplinary
+685,899,Multidisciplinary
+686,901,Multidisciplinary
+687,903,Multidisciplinary
+688,904,Multidisciplinary
+689,905,Multidisciplinary
+690,907,Multidisciplinary
+691,910,Multidisciplinary
+692,911,Multidisciplinary
+693,912,Multidisciplinary
+694,913,Multidisciplinary
+695,914,Multidisciplinary
+696,915,Multidisciplinary
+697,918,Multidisciplinary
+698,919,Multidisciplinary
+699,920,Multidisciplinary
+700,921,Multidisciplinary
+701,922,Multidisciplinary
+702,923,Multidisciplinary
+703,924,Multidisciplinary
+704,925,Multidisciplinary
+705,927,Multidisciplinary
+706,929,Multidisciplinary
+707,931,Multidisciplinary
+708,932,Multidisciplinary
+709,933,Multidisciplinary
+710,934,Multidisciplinary
+711,939,Multidisciplinary
+712,940,Multidisciplinary
+713,941,Multidisciplinary
+714,942,Multidisciplinary
+715,943,Multidisciplinary
+716,944,Multidisciplinary
+717,946,Multidisciplinary
+718,947,Multidisciplinary
+719,949,Multidisciplinary
+720,957,Multidisciplinary
+721,958,Multidisciplinary
+722,961,Multidisciplinary
+723,962,Multidisciplinary
+724,963,Multidisciplinary
+725,968,Multidisciplinary
+726,970,Multidisciplinary
+727,971,Multidisciplinary
+728,972,Multidisciplinary
+729,973,Multidisciplinary
+730,974,Multidisciplinary
+731,976,Multidisciplinary
+732,979,Multidisciplinary
+733,981,Multidisciplinary
+734,982,Multidisciplinary
+735,984,Multidisciplinary
+736,985,Multidisciplinary
+737,986,Multidisciplinary
+738,987,Multidisciplinary
+739,989,Multidisciplinary
+740,990,Multidisciplinary
+741,991,Multidisciplinary
+742,992,Multidisciplinary
+743,993,Multidisciplinary
+744,994,Multidisciplinary
+745,996,Multidisciplinary
+746,1000,Multidisciplinary
+747,1001,Multidisciplinary
+748,1002,Multidisciplinary
+749,1003,Multidisciplinary
+750,1004,Multidisciplinary
+751,1005,Multidisciplinary
+752,1006,Multidisciplinary
+753,1007,Multidisciplinary
+754,1010,Multidisciplinary
+755,1011,Multidisciplinary
+756,1012,Multidisciplinary
+757,1013,Multidisciplinary
+758,1016,Multidisciplinary
+759,1017,Multidisciplinary
+760,1018,Multidisciplinary
+761,1022,Multidisciplinary
+762,1026,Multidisciplinary
+763,1027,Multidisciplinary
+764,1028,Multidisciplinary
+765,1029,Multidisciplinary
+766,1030,Multidisciplinary
+767,1031,Multidisciplinary
+768,1032,Multidisciplinary
+769,1034,Multidisciplinary
+770,1035,Multidisciplinary
+771,1036,Multidisciplinary
+772,1039,Multidisciplinary
+773,1040,Multidisciplinary
+774,1041,Multidisciplinary
+775,1042,Multidisciplinary
+776,1043,Multidisciplinary
+777,1044,Multidisciplinary
+778,1045,Multidisciplinary
+779,1048,Multidisciplinary
+780,1049,Multidisciplinary
+781,1050,Multidisciplinary
+782,1051,Multidisciplinary
+783,1052,Multidisciplinary
+784,1053,Multidisciplinary
+785,1054,Multidisciplinary
+786,1057,Multidisciplinary
+787,1058,Multidisciplinary
+788,1059,Multidisciplinary
+789,1060,Multidisciplinary
+790,1064,Multidisciplinary
+791,1066,Multidisciplinary
+792,1067,Multidisciplinary
+793,1070,Multidisciplinary
+794,1073,Multidisciplinary
+795,1074,Multidisciplinary
+796,1075,Multidisciplinary
+797,1076,Multidisciplinary
+798,1078,Multidisciplinary
+799,1079,Multidisciplinary
+800,1080,Multidisciplinary
+801,1081,Multidisciplinary
+802,1082,Multidisciplinary
+803,1083,Multidisciplinary
+804,1084,Multidisciplinary
+805,1085,Multidisciplinary
+806,1087,Multidisciplinary
+807,1089,Multidisciplinary
+808,1091,Multidisciplinary
+809,1092,Multidisciplinary
+810,1093,Multidisciplinary
+811,1094,Multidisciplinary
+812,1095,Multidisciplinary
+813,1096,Multidisciplinary
+814,1097,Multidisciplinary
+815,1098,Multidisciplinary
+816,1099,Multidisciplinary
+817,1100,Multidisciplinary
+818,1101,Multidisciplinary
+819,1102,Multidisciplinary
+820,1103,Multidisciplinary
+821,1104,Multidisciplinary
+822,1106,Multidisciplinary
+823,1107,Multidisciplinary
+824,1109,Multidisciplinary
+825,1112,Multidisciplinary
+826,1113,Multidisciplinary
+827,1115,Multidisciplinary
+828,1116,Multidisciplinary
+829,1117,Multidisciplinary
+830,1119,Multidisciplinary
+831,1120,Multidisciplinary
+832,1121,Multidisciplinary
+833,1122,Multidisciplinary
+834,1124,Multidisciplinary
+835,1125,Multidisciplinary
+836,1126,Multidisciplinary
+837,1127,Multidisciplinary
+838,1128,Multidisciplinary
+839,1129,Multidisciplinary
+840,1130,Multidisciplinary
+841,1131,Multidisciplinary
+842,1133,Multidisciplinary
+843,1136,Multidisciplinary
+844,1137,Multidisciplinary
+845,1138,Multidisciplinary
+846,1139,Multidisciplinary
+847,1141,Multidisciplinary
+848,1142,Multidisciplinary
+849,1143,Multidisciplinary
+850,1145,Multidisciplinary
+851,1146,Multidisciplinary
+852,1147,Multidisciplinary
+853,1148,Multidisciplinary
+854,1149,Multidisciplinary
+855,1150,Multidisciplinary
+856,1152,Multidisciplinary
+857,1153,Multidisciplinary
+858,1154,Multidisciplinary
+859,1155,Multidisciplinary
+860,1156,Multidisciplinary
+861,1157,Multidisciplinary
+862,1158,Multidisciplinary
+863,1159,Multidisciplinary
+864,1160,Multidisciplinary
+865,1161,Multidisciplinary
+866,1164,Multidisciplinary
+867,1166,Multidisciplinary
+868,1167,Multidisciplinary
+869,1168,Multidisciplinary
+870,1170,Multidisciplinary
+871,1171,Multidisciplinary
+872,1172,Multidisciplinary
+873,1173,Multidisciplinary
+874,1174,Multidisciplinary
+875,1175,Multidisciplinary
+876,1178,Multidisciplinary
+877,1180,Multidisciplinary
+878,1182,Multidisciplinary
+879,1184,Multidisciplinary
+880,1185,Multidisciplinary
+881,30,Journalism and Media
+882,135,Journalism and Media
+883,176,Journalism and Media
+884,304,Journalism and Media
+885,491,Journalism and Media
+886,544,Journalism and Media
+887,597,Journalism and Media
+888,617,Journalism and Media
+889,708,Journalism and Media
+890,893,Journalism and Media
+891,46,Natural Sciences and Mathematics
+892,59,Natural Sciences and Mathematics
+893,62,Natural Sciences and Mathematics
+894,91,Natural Sciences and Mathematics
+895,100,Natural Sciences and Mathematics
+896,103,Natural Sciences and Mathematics
+897,129,Natural Sciences and Mathematics
+898,136,Natural Sciences and Mathematics
+899,145,Natural Sciences and Mathematics
+900,148,Natural Sciences and Mathematics
+901,153,Natural Sciences and Mathematics
+902,155,Natural Sciences and Mathematics
+903,195,Natural Sciences and Mathematics
+904,242,Natural Sciences and Mathematics
+905,252,Natural Sciences and Mathematics
+906,276,Natural Sciences and Mathematics
+907,287,Natural Sciences and Mathematics
+908,294,Natural Sciences and Mathematics
+909,305,Natural Sciences and Mathematics
+910,324,Natural Sciences and Mathematics
+911,331,Natural Sciences and Mathematics
+912,337,Natural Sciences and Mathematics
+913,340,Natural Sciences and Mathematics
+914,376,Natural Sciences and Mathematics
+915,431,Natural Sciences and Mathematics
+916,432,Natural Sciences and Mathematics
+917,445,Natural Sciences and Mathematics
+918,469,Natural Sciences and Mathematics
+919,486,Natural Sciences and Mathematics
+920,507,Natural Sciences and Mathematics
+921,550,Natural Sciences and Mathematics
+922,553,Natural Sciences and Mathematics
+923,616,Natural Sciences and Mathematics
+924,617,Natural Sciences and Mathematics
+925,620,Natural Sciences and Mathematics
+926,627,Natural Sciences and Mathematics
+927,642,Natural Sciences and Mathematics
+928,652,Natural Sciences and Mathematics
+929,665,Natural Sciences and Mathematics
+930,670,Natural Sciences and Mathematics
+931,680,Natural Sciences and Mathematics
+932,682,Natural Sciences and Mathematics
+933,703,Natural Sciences and Mathematics
+934,705,Natural Sciences and Mathematics
+935,715,Natural Sciences and Mathematics
+936,720,Natural Sciences and Mathematics
+937,721,Natural Sciences and Mathematics
+938,736,Natural Sciences and Mathematics
+939,749,Natural Sciences and Mathematics
+940,751,Natural Sciences and Mathematics
+941,758,Natural Sciences and Mathematics
+942,764,Natural Sciences and Mathematics
+943,767,Natural Sciences and Mathematics
+944,835,Natural Sciences and Mathematics
+945,847,Natural Sciences and Mathematics
+946,848,Natural Sciences and Mathematics
+947,868,Natural Sciences and Mathematics
+948,877,Natural Sciences and Mathematics
+949,887,Natural Sciences and Mathematics
+950,888,Natural Sciences and Mathematics
+951,890,Natural Sciences and Mathematics
+952,898,Natural Sciences and Mathematics
+953,908,Natural Sciences and Mathematics
+954,945,Natural Sciences and Mathematics
+955,948,Natural Sciences and Mathematics
+956,954,Natural Sciences and Mathematics
+957,955,Natural Sciences and Mathematics
+958,1046,Natural Sciences and Mathematics
+959,1061,Natural Sciences and Mathematics
+960,1062,Natural Sciences and Mathematics
+961,1063,Natural Sciences and Mathematics
+962,1110,Natural Sciences and Mathematics
+963,1111,Natural Sciences and Mathematics
+964,1123,Natural Sciences and Mathematics
+965,1134,Natural Sciences and Mathematics
+966,1135,Natural Sciences and Mathematics
+967,1179,Natural Sciences and Mathematics
+968,61,Medicine and Health
+969,62,Medicine and Health
+970,72,Medicine and Health
+971,91,Medicine and Health
+972,96,Medicine and Health
+973,98,Medicine and Health
+974,167,Medicine and Health
+975,178,Medicine and Health
+976,179,Medicine and Health
+977,197,Medicine and Health
+978,224,Medicine and Health
+979,232,Medicine and Health
+980,276,Medicine and Health
+981,280,Medicine and Health
+982,287,Medicine and Health
+983,326,Medicine and Health
+984,372,Medicine and Health
+985,376,Medicine and Health
+986,384,Medicine and Health
+987,400,Medicine and Health
+988,418,Medicine and Health
+989,430,Medicine and Health
+990,431,Medicine and Health
+991,451,Medicine and Health
+992,464,Medicine and Health
+993,489,Medicine and Health
+994,510,Medicine and Health
+995,523,Medicine and Health
+996,542,Medicine and Health
+997,551,Medicine and Health
+998,553,Medicine and Health
+999,605,Medicine and Health
+1000,617,Medicine and Health
+1001,620,Medicine and Health
+1002,627,Medicine and Health
+1003,642,Medicine and Health
+1004,658,Medicine and Health
+1005,680,Medicine and Health
+1006,689,Medicine and Health
+1007,712,Medicine and Health
+1008,730,Medicine and Health
+1009,731,Medicine and Health
+1010,749,Medicine and Health
+1011,753,Medicine and Health
+1012,756,Medicine and Health
+1013,792,Medicine and Health
+1014,830,Medicine and Health
+1015,868,Medicine and Health
+1016,871,Medicine and Health
+1017,888,Medicine and Health
+1018,898,Medicine and Health
+1019,907,Medicine and Health
+1020,908,Medicine and Health
+1021,917,Medicine and Health
+1022,930,Medicine and Health
+1023,937,Medicine and Health
+1024,953,Medicine and Health
+1025,955,Medicine and Health
+1026,956,Medicine and Health
+1027,1021,Medicine and Health
+1028,1024,Medicine and Health
+1029,1038,Medicine and Health
+1030,1046,Medicine and Health
+1031,1134,Medicine and Health
+1032,9,Computer science and IT
+1033,24,Computer science and IT
+1034,26,Computer science and IT
+1035,30,Computer science and IT
+1036,91,Computer science and IT
+1037,103,Computer science and IT
+1038,121,Computer science and IT
+1039,135,Computer science and IT
+1040,136,Computer science and IT
+1041,149,Computer science and IT
+1042,152,Computer science and IT
+1043,153,Computer science and IT
+1044,155,Computer science and IT
+1045,168,Computer science and IT
+1046,222,Computer science and IT
+1047,233,Computer science and IT
+1048,307,Computer science and IT
+1049,331,Computer science and IT
+1050,358,Computer science and IT
+1051,376,Computer science and IT
+1052,389,Computer science and IT
+1053,435,Computer science and IT
+1054,440,Computer science and IT
+1055,448,Computer science and IT
+1056,449,Computer science and IT
+1057,456,Computer science and IT
+1058,469,Computer science and IT
+1059,529,Computer science and IT
+1060,561,Computer science and IT
+1061,562,Computer science and IT
+1062,575,Computer science and IT
+1063,583,Computer science and IT
+1064,594,Computer science and IT
+1065,616,Computer science and IT
+1066,617,Computer science and IT
+1067,633,Computer science and IT
+1068,665,Computer science and IT
+1069,715,Computer science and IT
+1070,721,Computer science and IT
+1071,746,Computer science and IT
+1072,748,Computer science and IT
+1073,759,Computer science and IT
+1074,784,Computer science and IT
+1075,810,Computer science and IT
+1076,819,Computer science and IT
+1077,824,Computer science and IT
+1078,861,Computer science and IT
+1079,873,Computer science and IT
+1080,875,Computer science and IT
+1081,894,Computer science and IT
+1082,897,Computer science and IT
+1083,909,Computer science and IT
+1084,945,Computer science and IT
+1085,951,Computer science and IT
+1086,965,Computer science and IT
+1087,966,Computer science and IT
+1088,1037,Computer science and IT
+1089,1065,Computer science and IT
+1090,1110,Computer science and IT
+1091,1111,Computer science and IT
+1092,1169,Computer science and IT
+1093,44,Environmental studies and earth sciences
+1094,50,Environmental studies and earth sciences
+1095,62,Environmental studies and earth sciences
+1096,65,Environmental studies and earth sciences
+1097,91,Environmental studies and earth sciences
+1098,103,Environmental studies and earth sciences
+1099,129,Environmental studies and earth sciences
+1100,136,Environmental studies and earth sciences
+1101,140,Environmental studies and earth sciences
+1102,166,Environmental studies and earth sciences
+1103,167,Environmental studies and earth sciences
+1104,184,Environmental studies and earth sciences
+1105,202,Environmental studies and earth sciences
+1106,244,Environmental studies and earth sciences
+1107,278,Environmental studies and earth sciences
+1108,287,Environmental studies and earth sciences
+1109,294,Environmental studies and earth sciences
+1110,305,Environmental studies and earth sciences
+1111,329,Environmental studies and earth sciences
+1112,352,Environmental studies and earth sciences
+1113,371,Environmental studies and earth sciences
+1114,376,Environmental studies and earth sciences
+1115,392,Environmental studies and earth sciences
+1116,429,Environmental studies and earth sciences
+1117,452,Environmental studies and earth sciences
+1118,469,Environmental studies and earth sciences
+1119,486,Environmental studies and earth sciences
+1120,489,Environmental studies and earth sciences
+1121,496,Environmental studies and earth sciences
+1122,508,Environmental studies and earth sciences
+1123,571,Environmental studies and earth sciences
+1124,591,Environmental studies and earth sciences
+1125,594,Environmental studies and earth sciences
+1126,616,Environmental studies and earth sciences
+1127,617,Environmental studies and earth sciences
+1128,627,Environmental studies and earth sciences
+1129,636,Environmental studies and earth sciences
+1130,641,Environmental studies and earth sciences
+1131,645,Environmental studies and earth sciences
+1132,688,Environmental studies and earth sciences
+1133,736,Environmental studies and earth sciences
+1134,764,Environmental studies and earth sciences
+1135,808,Environmental studies and earth sciences
+1136,817,Environmental studies and earth sciences
+1137,824,Environmental studies and earth sciences
+1138,830,Environmental studies and earth sciences
+1139,833,Environmental studies and earth sciences
+1140,844,Environmental studies and earth sciences
+1141,861,Environmental studies and earth sciences
+1142,883,Environmental studies and earth sciences
+1143,900,Environmental studies and earth sciences
+1144,908,Environmental studies and earth sciences
+1145,956,Environmental studies and earth sciences
+1146,959,Environmental studies and earth sciences
+1147,977,Environmental studies and earth sciences
+1148,980,Environmental studies and earth sciences
+1149,1033,Environmental studies and earth sciences
+1150,1072,Environmental studies and earth sciences
+1151,1086,Environmental studies and earth sciences
+1152,1108,Environmental studies and earth sciences
+1153,1110,Environmental studies and earth sciences
+1154,1111,Environmental studies and earth sciences
+1155,1162,Environmental studies and earth sciences
+1156,1165,Environmental studies and earth sciences
+1157,1176,Environmental studies and earth sciences
+1158,3,Arts Design and Photography
+1159,12,Arts Design and Photography
+1160,30,Arts Design and Photography
+1161,55,Arts Design and Photography
+1162,67,Arts Design and Photography
+1163,69,Arts Design and Photography
+1164,70,Arts Design and Photography
+1165,114,Arts Design and Photography
+1166,176,Arts Design and Photography
+1167,177,Arts Design and Photography
+1168,226,Arts Design and Photography
+1169,287,Arts Design and Photography
+1170,320,Arts Design and Photography
+1171,398,Arts Design and Photography
+1172,491,Arts Design and Photography
+1173,554,Arts Design and Photography
+1174,617,Arts Design and Photography
+1175,620,Arts Design and Photography
+1176,627,Arts Design and Photography
+1177,633,Arts Design and Photography
+1178,635,Arts Design and Photography
+1179,650,Arts Design and Photography
+1180,668,Arts Design and Photography
+1181,670,Arts Design and Photography
+1182,739,Arts Design and Photography
+1183,819,Arts Design and Photography
+1184,893,Arts Design and Photography
+1185,905,Arts Design and Photography
+1186,926,Arts Design and Photography
+1187,969,Arts Design and Photography
+1188,1019,Arts Design and Photography
+1189,1063,Arts Design and Photography
+1190,1088,Arts Design and Photography
+1191,1140,Arts Design and Photography
+1192,1184,Arts Design and Photography
+1193,18,Engineer and Technology
+1194,30,Engineer and Technology
+1195,47,Engineer and Technology
+1196,50,Engineer and Technology
+1197,66,Engineer and Technology
+1198,67,Engineer and Technology
+1199,77,Engineer and Technology
+1200,90,Engineer and Technology
+1201,91,Engineer and Technology
+1202,103,Engineer and Technology
+1203,105,Engineer and Technology
+1204,121,Engineer and Technology
+1205,126,Engineer and Technology
+1206,136,Engineer and Technology
+1207,145,Engineer and Technology
+1208,152,Engineer and Technology
+1209,155,Engineer and Technology
+1210,157,Engineer and Technology
+1211,165,Engineer and Technology
+1212,184,Engineer and Technology
+1213,192,Engineer and Technology
+1214,197,Engineer and Technology
+1215,205,Engineer and Technology
+1216,217,Engineer and Technology
+1217,241,Engineer and Technology
+1218,242,Engineer and Technology
+1219,262,Engineer and Technology
+1220,263,Engineer and Technology
+1221,287,Engineer and Technology
+1222,291,Engineer and Technology
+1223,293,Engineer and Technology
+1224,305,Engineer and Technology
+1225,324,Engineer and Technology
+1226,336,Engineer and Technology
+1227,337,Engineer and Technology
+1228,345,Engineer and Technology
+1229,353,Engineer and Technology
+1230,361,Engineer and Technology
+1231,365,Engineer and Technology
+1232,366,Engineer and Technology
+1233,368,Engineer and Technology
+1234,376,Engineer and Technology
+1235,428,Engineer and Technology
+1236,431,Engineer and Technology
+1237,440,Engineer and Technology
+1238,449,Engineer and Technology
+1239,453,Engineer and Technology
+1240,469,Engineer and Technology
+1241,486,Engineer and Technology
+1242,505,Engineer and Technology
+1243,507,Engineer and Technology
+1244,517,Engineer and Technology
+1245,530,Engineer and Technology
+1246,553,Engineer and Technology
+1247,572,Engineer and Technology
+1248,575,Engineer and Technology
+1249,596,Engineer and Technology
+1250,599,Engineer and Technology
+1251,608,Engineer and Technology
+1252,610,Engineer and Technology
+1253,614,Engineer and Technology
+1254,616,Engineer and Technology
+1255,617,Engineer and Technology
+1256,620,Engineer and Technology
+1257,627,Engineer and Technology
+1258,633,Engineer and Technology
+1259,636,Engineer and Technology
+1260,653,Engineer and Technology
+1261,655,Engineer and Technology
+1262,665,Engineer and Technology
+1263,715,Engineer and Technology
+1264,720,Engineer and Technology
+1265,721,Engineer and Technology
+1266,740,Engineer and Technology
+1267,748,Engineer and Technology
+1268,750,Engineer and Technology
+1269,769,Engineer and Technology
+1270,770,Engineer and Technology
+1271,784,Engineer and Technology
+1272,798,Engineer and Technology
+1273,810,Engineer and Technology
+1274,811,Engineer and Technology
+1275,819,Engineer and Technology
+1276,825,Engineer and Technology
+1277,830,Engineer and Technology
+1278,841,Engineer and Technology
+1279,853,Engineer and Technology
+1280,861,Engineer and Technology
+1281,867,Engineer and Technology
+1282,868,Engineer and Technology
+1283,877,Engineer and Technology
+1284,888,Engineer and Technology
+1285,897,Engineer and Technology
+1286,909,Engineer and Technology
+1287,945,Engineer and Technology
+1288,956,Engineer and Technology
+1289,965,Engineer and Technology
+1290,969,Engineer and Technology
+1291,995,Engineer and Technology
+1292,1025,Engineer and Technology
+1293,1033,Engineer and Technology
+1294,1037,Engineer and Technology
+1295,1046,Engineer and Technology
+1296,1065,Engineer and Technology
+1297,1068,Engineer and Technology
+1298,1072,Engineer and Technology
+1299,1086,Engineer and Technology
+1300,1110,Engineer and Technology
+1301,1118,Engineer and Technology
+1302,1134,Engineer and Technology
+1303,1140,Engineer and Technology
+1304,1176,Engineer and Technology
+1305,1183,Engineer and Technology
+1306,16,Hospitality Tourism and Sports
+1307,125,Hospitality Tourism and Sports
+1308,176,Hospitality Tourism and Sports
+1309,188,Hospitality Tourism and Sports
+1310,245,Hospitality Tourism and Sports
+1311,408,Hospitality Tourism and Sports
+1312,461,Hospitality Tourism and Sports
+1313,485,Hospitality Tourism and Sports
+1314,561,Hospitality Tourism and Sports
+1315,617,Hospitality Tourism and Sports
+1316,627,Hospitality Tourism and Sports
+1317,635,Hospitality Tourism and Sports
+1318,823,Hospitality Tourism and Sports
+1319,829,Hospitality Tourism and Sports
+1320,843,Hospitality Tourism and Sports
+1321,999,Hospitality Tourism and Sports
+1322,16,Hospitality Tourism and Sports
+1323,125,Hospitality Tourism and Sports
+1324,176,Hospitality Tourism and Sports
+1325,188,Hospitality Tourism and Sports
+1326,245,Hospitality Tourism and Sports
+1327,408,Hospitality Tourism and Sports
+1328,461,Hospitality Tourism and Sports
+1329,485,Hospitality Tourism and Sports
+1330,561,Hospitality Tourism and Sports
+1331,617,Hospitality Tourism and Sports
+1332,627,Hospitality Tourism and Sports
+1333,635,Hospitality Tourism and Sports
+1334,823,Hospitality Tourism and Sports
+1335,829,Hospitality Tourism and Sports
+1336,843,Hospitality Tourism and Sports
+1337,999,Hospitality Tourism and Sports
+1338,3,Arts Design and Photography
+1339,12,Arts Design and Photography
+1340,30,Arts Design and Photography
+1341,55,Arts Design and Photography
+1342,67,Arts Design and Photography
+1343,69,Arts Design and Photography
+1344,70,Arts Design and Photography
+1345,114,Arts Design and Photography
+1346,176,Arts Design and Photography
+1347,177,Arts Design and Photography
+1348,226,Arts Design and Photography
+1349,287,Arts Design and Photography
+1350,320,Arts Design and Photography
+1351,398,Arts Design and Photography
+1352,491,Arts Design and Photography
+1353,554,Arts Design and Photography
+1354,617,Arts Design and Photography
+1355,620,Arts Design and Photography
+1356,627,Arts Design and Photography
+1357,633,Arts Design and Photography
+1358,635,Arts Design and Photography
+1359,650,Arts Design and Photography
+1360,668,Arts Design and Photography
+1361,670,Arts Design and Photography
+1362,739,Arts Design and Photography
+1363,819,Arts Design and Photography
+1364,893,Arts Design and Photography
+1365,905,Arts Design and Photography
+1366,926,Arts Design and Photography
+1367,969,Arts Design and Photography
+1368,1019,Arts Design and Photography
+1369,1063,Arts Design and Photography
+1370,1088,Arts Design and Photography
+1371,1140,Arts Design and Photography
+1372,1184,Arts Design and Photography
+1373,33,Social sciences and Humanities
+1374,50,Social sciences and Humanities
+1375,51,Social sciences and Humanities
+1376,55,Social sciences and Humanities
+1377,65,Social sciences and Humanities
+1378,91,Social sciences and Humanities
+1379,129,Social sciences and Humanities
+1380,140,Social sciences and Humanities
+1381,184,Social sciences and Humanities
+1382,187,Social sciences and Humanities
+1383,194,Social sciences and Humanities
+1384,197,Social sciences and Humanities
+1385,213,Social sciences and Humanities
+1386,243,Social sciences and Humanities
+1387,245,Social sciences and Humanities
+1388,261,Social sciences and Humanities
+1389,287,Social sciences and Humanities
+1390,304,Social sciences and Humanities
+1391,318,Social sciences and Humanities
+1392,330,Social sciences and Humanities
+1393,331,Social sciences and Humanities
+1394,340,Social sciences and Humanities
+1395,345,Social sciences and Humanities
+1396,349,Social sciences and Humanities
+1397,356,Social sciences and Humanities
+1398,367,Social sciences and Humanities
+1399,390,Social sciences and Humanities
+1400,417,Social sciences and Humanities
+1401,429,Social sciences and Humanities
+1402,443,Social sciences and Humanities
+1403,450,Social sciences and Humanities
+1404,476,Social sciences and Humanities
+1405,477,Social sciences and Humanities
+1406,483,Social sciences and Humanities
+1407,488,Social sciences and Humanities
+1408,489,Social sciences and Humanities
+1409,581,Social sciences and Humanities
+1410,591,Social sciences and Humanities
+1411,594,Social sciences and Humanities
+1412,607,Social sciences and Humanities
+1413,613,Social sciences and Humanities
+1414,617,Social sciences and Humanities
+1415,620,Social sciences and Humanities
+1416,621,Social sciences and Humanities
+1417,626,Social sciences and Humanities
+1418,627,Social sciences and Humanities
+1419,633,Social sciences and Humanities
+1420,645,Social sciences and Humanities
+1421,646,Social sciences and Humanities
+1422,665,Social sciences and Humanities
+1423,669,Social sciences and Humanities
+1424,670,Social sciences and Humanities
+1425,671,Social sciences and Humanities
+1426,680,Social sciences and Humanities
+1427,684,Social sciences and Humanities
+1428,707,Social sciences and Humanities
+1429,720,Social sciences and Humanities
+1430,721,Social sciences and Humanities
+1431,736,Social sciences and Humanities
+1432,743,Social sciences and Humanities
+1433,748,Social sciences and Humanities
+1434,754,Social sciences and Humanities
+1435,755,Social sciences and Humanities
+1436,756,Social sciences and Humanities
+1437,763,Social sciences and Humanities
+1438,765,Social sciences and Humanities
+1439,779,Social sciences and Humanities
+1440,788,Social sciences and Humanities
+1441,792,Social sciences and Humanities
+1442,799,Social sciences and Humanities
+1443,800,Social sciences and Humanities
+1444,824,Social sciences and Humanities
+1445,828,Social sciences and Humanities
+1446,872,Social sciences and Humanities
+1447,893,Social sciences and Humanities
+1448,902,Social sciences and Humanities
+1449,909,Social sciences and Humanities
+1450,916,Social sciences and Humanities
+1451,917,Social sciences and Humanities
+1452,923,Social sciences and Humanities
+1453,926,Social sciences and Humanities
+1454,928,Social sciences and Humanities
+1455,935,Social sciences and Humanities
+1456,938,Social sciences and Humanities
+1457,950,Social sciences and Humanities
+1458,952,Social sciences and Humanities
+1459,967,Social sciences and Humanities
+1460,969,Social sciences and Humanities
+1461,975,Social sciences and Humanities
+1462,983,Social sciences and Humanities
+1463,988,Social sciences and Humanities
+1464,998,Social sciences and Humanities
+1465,1009,Social sciences and Humanities
+1466,1038,Social sciences and Humanities
+1467,1047,Social sciences and Humanities
+1468,1063,Social sciences and Humanities
+1469,1071,Social sciences and Humanities
+1470,1114,Social sciences and Humanities
+1471,1135,Social sciences and Humanities
+1472,1144,Social sciences and Humanities
+1473,1151,Social sciences and Humanities
+1474,1177,Social sciences and Humanities

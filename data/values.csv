@@ -1,0 +1,1447 @@
+id,scholarship_id,value
+1,13,Cash
+2,14,Cash
+3,16,Cash
+4,32,Cash
+5,33,Cash
+6,36,Cash
+7,43,Cash
+8,45,Cash
+9,50,Cash
+10,55,Cash
+11,60,Cash
+12,62,Cash
+13,67,Cash
+14,74,Cash
+15,79,Cash
+16,86,Cash
+17,96,Cash
+18,100,Cash
+19,101,Cash
+20,102,Cash
+21,104,Cash
+22,110,Cash
+23,111,Cash
+24,112,Cash
+25,114,Cash
+26,115,Cash
+27,121,Cash
+28,123,Cash
+29,127,Cash
+30,130,Cash
+31,136,Cash
+32,140,Cash
+33,149,Cash
+34,154,Cash
+35,164,Cash
+36,168,Cash
+37,170,Cash
+38,175,Cash
+39,180,Cash
+40,188,Cash
+41,194,Cash
+42,195,Cash
+43,199,Cash
+44,206,Cash
+45,213,Cash
+46,217,Cash
+47,218,Cash
+48,236,Cash
+49,241,Cash
+50,249,Cash
+51,252,Cash
+52,253,Cash
+53,256,Cash
+54,265,Cash
+55,267,Cash
+56,272,Cash
+57,279,Cash
+58,283,Cash
+59,287,Cash
+60,288,Cash
+61,293,Cash
+62,306,Cash
+63,309,Cash
+64,311,Cash
+65,312,Cash
+66,330,Cash
+67,340,Cash
+68,344,Cash
+69,345,Cash
+70,351,Cash
+71,355,Cash
+72,360,Cash
+73,364,Cash
+74,367,Cash
+75,375,Cash
+76,384,Cash
+77,385,Cash
+78,393,Cash
+79,394,Cash
+80,396,Cash
+81,401,Cash
+82,402,Cash
+83,406,Cash
+84,409,Cash
+85,416,Cash
+86,424,Cash
+87,430,Cash
+88,437,Cash
+89,439,Cash
+90,441,Cash
+91,443,Cash
+92,444,Cash
+93,446,Cash
+94,448,Cash
+95,450,Cash
+96,463,Cash
+97,466,Cash
+98,468,Cash
+99,469,Cash
+100,471,Cash
+101,477,Cash
+102,478,Cash
+103,479,Cash
+104,483,Cash
+105,489,Cash
+106,497,Cash
+107,498,Cash
+108,500,Cash
+109,501,Cash
+110,511,Cash
+111,515,Cash
+112,517,Cash
+113,520,Cash
+114,522,Cash
+115,525,Cash
+116,530,Cash
+117,531,Cash
+118,533,Cash
+119,534,Cash
+120,539,Cash
+121,550,Cash
+122,555,Cash
+123,560,Cash
+124,563,Cash
+125,572,Cash
+126,576,Cash
+127,585,Cash
+128,595,Cash
+129,599,Cash
+130,605,Cash
+131,626,Cash
+132,633,Cash
+133,634,Cash
+134,635,Cash
+135,639,Cash
+136,644,Cash
+137,646,Cash
+138,656,Cash
+139,660,Cash
+140,661,Cash
+141,670,Cash
+142,675,Cash
+143,683,Cash
+144,687,Cash
+145,693,Cash
+146,694,Cash
+147,703,Cash
+148,704,Cash
+149,705,Cash
+150,706,Cash
+151,707,Cash
+152,709,Cash
+153,723,Cash
+154,725,Cash
+155,726,Cash
+156,728,Cash
+157,729,Cash
+158,735,Cash
+159,738,Cash
+160,739,Cash
+161,743,Cash
+162,744,Cash
+163,749,Cash
+164,752,Cash
+165,754,Cash
+166,759,Cash
+167,762,Cash
+168,764,Cash
+169,780,Cash
+170,785,Cash
+171,786,Cash
+172,787,Cash
+173,789,Cash
+174,793,Cash
+175,797,Cash
+176,801,Cash
+177,803,Cash
+178,809,Cash
+179,811,Cash
+180,815,Cash
+181,816,Cash
+182,827,Cash
+183,828,Cash
+184,830,Cash
+185,841,Cash
+186,842,Cash
+187,844,Cash
+188,845,Cash
+189,847,Cash
+190,854,Cash
+191,868,Cash
+192,871,Cash
+193,885,Cash
+194,889,Cash
+195,893,Cash
+196,894,Cash
+197,904,Cash
+198,915,Cash
+199,916,Cash
+200,919,Cash
+201,921,Cash
+202,922,Cash
+203,934,Cash
+204,935,Cash
+205,937,Cash
+206,938,Cash
+207,939,Cash
+208,943,Cash
+209,944,Cash
+210,948,Cash
+211,949,Cash
+212,953,Cash
+213,964,Cash
+214,965,Cash
+215,973,Cash
+216,975,Cash
+217,976,Cash
+218,982,Cash
+219,985,Cash
+220,987,Cash
+221,990,Cash
+222,999,Cash
+223,1001,Cash
+224,1004,Cash
+225,1010,Cash
+226,1016,Cash
+227,1023,Cash
+228,1027,Cash
+229,1029,Cash
+230,1038,Cash
+231,1039,Cash
+232,1042,Cash
+233,1044,Cash
+234,1049,Cash
+235,1060,Cash
+236,1063,Cash
+237,1065,Cash
+238,1066,Cash
+239,1068,Cash
+240,1070,Cash
+241,1074,Cash
+242,1076,Cash
+243,1078,Cash
+244,1079,Cash
+245,1084,Cash
+246,1092,Cash
+247,1094,Cash
+248,1096,Cash
+249,1097,Cash
+250,1098,Cash
+251,1100,Cash
+252,1102,Cash
+253,1109,Cash
+254,1112,Cash
+255,1119,Cash
+256,1120,Cash
+257,1121,Cash
+258,1126,Cash
+259,1129,Cash
+260,1130,Cash
+261,1131,Cash
+262,1132,Cash
+263,1139,Cash
+264,1144,Cash
+265,1151,Cash
+266,1153,Cash
+267,1157,Cash
+268,1160,Cash
+269,1164,Cash
+270,1165,Cash
+271,1168,Cash
+272,1176,Cash
+273,1183,Cash
+274,1184,Cash
+275,31,More than half
+276,58,More than half
+277,91,More than half
+278,107,More than half
+279,135,More than half
+280,146,More than half
+281,155,More than half
+282,190,More than half
+283,191,More than half
+284,201,More than half
+285,216,More than half
+286,245,More than half
+287,247,More than half
+288,258,More than half
+289,260,More than half
+290,289,More than half
+291,303,More than half
+292,321,More than half
+293,380,More than half
+294,400,More than half
+295,410,More than half
+296,411,More than half
+297,412,More than half
+298,414,More than half
+299,418,More than half
+300,427,More than half
+301,433,More than half
+302,440,More than half
+303,442,More than half
+304,494,More than half
+305,500,More than half
+306,528,More than half
+307,549,More than half
+308,560,More than half
+309,570,More than half
+310,578,More than half
+311,606,More than half
+312,621,More than half
+313,622,More than half
+314,627,More than half
+315,629,More than half
+316,654,More than half
+317,657,More than half
+318,680,More than half
+319,682,More than half
+320,685,More than half
+321,690,More than half
+322,691,More than half
+323,713,More than half
+324,736,More than half
+325,777,More than half
+326,791,More than half
+327,802,More than half
+328,806,More than half
+329,813,More than half
+330,818,More than half
+331,826,More than half
+332,831,More than half
+333,833,More than half
+334,843,More than half
+335,849,More than half
+336,852,More than half
+337,863,More than half
+338,874,More than half
+339,878,More than half
+340,884,More than half
+341,896,More than half
+342,899,More than half
+343,906,More than half
+344,963,More than half
+345,989,More than half
+346,995,More than half
+347,1009,More than half
+348,1030,More than half
+349,1036,More than half
+350,1054,More than half
+351,1056,More than half
+352,1066,More than half
+353,1067,More than half
+354,1074,More than half
+355,1083,More than half
+356,1085,More than half
+357,1088,More than half
+358,1094,More than half
+359,1095,More than half
+360,1111,More than half
+361,1152,More than half
+362,1158,More than half
+363,1170,More than half
+364,1175,More than half
+365,1185,More than half
+366,1,Full tuition
+367,7,Full tuition
+368,9,Full tuition
+369,11,Full tuition
+370,17,Full tuition
+371,18,Full tuition
+372,21,Full tuition
+373,29,Full tuition
+374,30,Full tuition
+375,31,Full tuition
+376,35,Full tuition
+377,43,Full tuition
+378,46,Full tuition
+379,51,Full tuition
+380,63,Full tuition
+381,66,Full tuition
+382,69,Full tuition
+383,72,Full tuition
+384,81,Full tuition
+385,84,Full tuition
+386,88,Full tuition
+387,89,Full tuition
+388,91,Full tuition
+389,105,Full tuition
+390,107,Full tuition
+391,111,Full tuition
+392,113,Full tuition
+393,115,Full tuition
+394,116,Full tuition
+395,119,Full tuition
+396,131,Full tuition
+397,134,Full tuition
+398,137,Full tuition
+399,142,Full tuition
+400,145,Full tuition
+401,147,Full tuition
+402,152,Full tuition
+403,153,Full tuition
+404,165,Full tuition
+405,167,Full tuition
+406,174,Full tuition
+407,176,Full tuition
+408,177,Full tuition
+409,178,Full tuition
+410,186,Full tuition
+411,188,Full tuition
+412,189,Full tuition
+413,192,Full tuition
+414,195,Full tuition
+415,198,Full tuition
+416,201,Full tuition
+417,204,Full tuition
+418,205,Full tuition
+419,208,Full tuition
+420,214,Full tuition
+421,215,Full tuition
+422,216,Full tuition
+423,220,Full tuition
+424,229,Full tuition
+425,230,Full tuition
+426,234,Full tuition
+427,244,Full tuition
+428,249,Full tuition
+429,251,Full tuition
+430,260,Full tuition
+431,271,Full tuition
+432,273,Full tuition
+433,278,Full tuition
+434,282,Full tuition
+435,292,Full tuition
+436,294,Full tuition
+437,298,Full tuition
+438,315,Full tuition
+439,317,Full tuition
+440,320,Full tuition
+441,321,Full tuition
+442,326,Full tuition
+443,342,Full tuition
+444,348,Full tuition
+445,349,Full tuition
+446,352,Full tuition
+447,357,Full tuition
+448,359,Full tuition
+449,365,Full tuition
+450,374,Full tuition
+451,375,Full tuition
+452,382,Full tuition
+453,395,Full tuition
+454,399,Full tuition
+455,400,Full tuition
+456,402,Full tuition
+457,411,Full tuition
+458,415,Full tuition
+459,417,Full tuition
+460,419,Full tuition
+461,420,Full tuition
+462,421,Full tuition
+463,427,Full tuition
+464,431,Full tuition
+465,435,Full tuition
+466,438,Full tuition
+467,442,Full tuition
+468,454,Full tuition
+469,456,Full tuition
+470,463,Full tuition
+471,469,Full tuition
+472,470,Full tuition
+473,476,Full tuition
+474,479,Full tuition
+475,484,Full tuition
+476,495,Full tuition
+477,508,Full tuition
+478,513,Full tuition
+479,521,Full tuition
+480,523,Full tuition
+481,527,Full tuition
+482,528,Full tuition
+483,529,Full tuition
+484,533,Full tuition
+485,535,Full tuition
+486,541,Full tuition
+487,543,Full tuition
+488,545,Full tuition
+489,550,Full tuition
+490,551,Full tuition
+491,552,Full tuition
+492,554,Full tuition
+493,559,Full tuition
+494,560,Full tuition
+495,562,Full tuition
+496,570,Full tuition
+497,571,Full tuition
+498,573,Full tuition
+499,577,Full tuition
+500,580,Full tuition
+501,581,Full tuition
+502,586,Full tuition
+503,587,Full tuition
+504,588,Full tuition
+505,593,Full tuition
+506,598,Full tuition
+507,601,Full tuition
+508,604,Full tuition
+509,606,Full tuition
+510,609,Full tuition
+511,612,Full tuition
+512,613,Full tuition
+513,615,Full tuition
+514,616,Full tuition
+515,621,Full tuition
+516,629,Full tuition
+517,642,Full tuition
+518,643,Full tuition
+519,648,Full tuition
+520,650,Full tuition
+521,653,Full tuition
+522,657,Full tuition
+523,662,Full tuition
+524,673,Full tuition
+525,679,Full tuition
+526,693,Full tuition
+527,694,Full tuition
+528,695,Full tuition
+529,698,Full tuition
+530,700,Full tuition
+531,716,Full tuition
+532,718,Full tuition
+533,727,Full tuition
+534,736,Full tuition
+535,740,Full tuition
+536,741,Full tuition
+537,742,Full tuition
+538,746,Full tuition
+539,751,Full tuition
+540,753,Full tuition
+541,767,Full tuition
+542,769,Full tuition
+543,772,Full tuition
+544,777,Full tuition
+545,781,Full tuition
+546,784,Full tuition
+547,788,Full tuition
+548,802,Full tuition
+549,805,Full tuition
+550,806,Full tuition
+551,812,Full tuition
+552,813,Full tuition
+553,824,Full tuition
+554,827,Full tuition
+555,832,Full tuition
+556,834,Full tuition
+557,836,Full tuition
+558,837,Full tuition
+559,838,Full tuition
+560,852,Full tuition
+561,856,Full tuition
+562,864,Full tuition
+563,875,Full tuition
+564,878,Full tuition
+565,884,Full tuition
+566,888,Full tuition
+567,889,Full tuition
+568,892,Full tuition
+569,895,Full tuition
+570,896,Full tuition
+571,897,Full tuition
+572,900,Full tuition
+573,911,Full tuition
+574,913,Full tuition
+575,920,Full tuition
+576,946,Full tuition
+577,947,Full tuition
+578,960,Full tuition
+579,962,Full tuition
+580,979,Full tuition
+581,982,Full tuition
+582,983,Full tuition
+583,987,Full tuition
+584,992,Full tuition
+585,1000,Full tuition
+586,1005,Full tuition
+587,1019,Full tuition
+588,1024,Full tuition
+589,1025,Full tuition
+590,1026,Full tuition
+591,1032,Full tuition
+592,1034,Full tuition
+593,1040,Full tuition
+594,1049,Full tuition
+595,1058,Full tuition
+596,1069,Full tuition
+597,1073,Full tuition
+598,1082,Full tuition
+599,1083,Full tuition
+600,1087,Full tuition
+601,1089,Full tuition
+602,1094,Full tuition
+603,1103,Full tuition
+604,1104,Full tuition
+605,1111,Full tuition
+606,1115,Full tuition
+607,1116,Full tuition
+608,1117,Full tuition
+609,1122,Full tuition
+610,1127,Full tuition
+611,1130,Full tuition
+612,1141,Full tuition
+613,1142,Full tuition
+614,1145,Full tuition
+615,1149,Full tuition
+616,1156,Full tuition
+617,1161,Full tuition
+618,1167,Full tuition
+619,1169,Full tuition
+620,1170,Full tuition
+621,1172,Full tuition
+622,1174,Full tuition
+623,1178,Full tuition
+624,1180,Full tuition
+625,1181,Full tuition
+626,1182,Full tuition
+627,1,Less than half
+628,11,Less than half
+629,19,Less than half
+630,23,Less than half
+631,25,Less than half
+632,28,Less than half
+633,29,Less than half
+634,31,Less than half
+635,40,Less than half
+636,49,Less than half
+637,71,Less than half
+638,107,Less than half
+639,118,Less than half
+640,141,Less than half
+641,156,Less than half
+642,181,Less than half
+643,182,Less than half
+644,184,Less than half
+645,222,Less than half
+646,237,Less than half
+647,238,Less than half
+648,252,Less than half
+649,260,Less than half
+650,270,Less than half
+651,302,Less than half
+652,303,Less than half
+653,307,Less than half
+654,317,Less than half
+655,321,Less than half
+656,323,Less than half
+657,369,Less than half
+658,372,Less than half
+659,378,Less than half
+660,380,Less than half
+661,388,Less than half
+662,411,Less than half
+663,427,Less than half
+664,458,Less than half
+665,478,Less than half
+666,482,Less than half
+667,485,Less than half
+668,490,Less than half
+669,514,Less than half
+670,528,Less than half
+671,531,Less than half
+672,538,Less than half
+673,540,Less than half
+674,560,Less than half
+675,561,Less than half
+676,570,Less than half
+677,584,Less than half
+678,591,Less than half
+679,592,Less than half
+680,600,Less than half
+681,601,Less than half
+682,606,Less than half
+683,611,Less than half
+684,620,Less than half
+685,622,Less than half
+686,629,Less than half
+687,631,Less than half
+688,632,Less than half
+689,649,Less than half
+690,651,Less than half
+691,655,Less than half
+692,666,Less than half
+693,674,Less than half
+694,681,Less than half
+695,691,Less than half
+696,693,Less than half
+697,696,Less than half
+698,699,Less than half
+699,708,Less than half
+700,710,Less than half
+701,712,Less than half
+702,734,Less than half
+703,736,Less than half
+704,744,Less than half
+705,777,Less than half
+706,778,Less than half
+707,790,Less than half
+708,792,Less than half
+709,796,Less than half
+710,813,Less than half
+711,821,Less than half
+712,823,Less than half
+713,830,Less than half
+714,839,Less than half
+715,849,Less than half
+716,878,Less than half
+717,879,Less than half
+718,880,Less than half
+719,896,Less than half
+720,903,Less than half
+721,914,Less than half
+722,933,Less than half
+723,936,Less than half
+724,938,Less than half
+725,946,Less than half
+726,952,Less than half
+727,989,Less than half
+728,991,Less than half
+729,997,Less than half
+730,1000,Less than half
+731,1005,Less than half
+732,1006,Less than half
+733,1008,Less than half
+734,1014,Less than half
+735,1020,Less than half
+736,1021,Less than half
+737,1028,Less than half
+738,1030,Less than half
+739,1049,Less than half
+740,1051,Less than half
+741,1071,Less than half
+742,1072,Less than half
+743,1107,Less than half
+744,1111,Less than half
+745,1116,Less than half
+746,1118,Less than half
+747,1127,Less than half
+748,1137,Less than half
+749,1150,Less than half
+750,1158,Less than half
+751,1159,Less than half
+752,1170,Less than half
+753,1174,Less than half
+754,1,Half tuition
+755,5,Half tuition
+756,7,Half tuition
+757,8,Half tuition
+758,11,Half tuition
+759,12,Half tuition
+760,19,Half tuition
+761,23,Half tuition
+762,25,Half tuition
+763,28,Half tuition
+764,29,Half tuition
+765,31,Half tuition
+766,34,Half tuition
+767,40,Half tuition
+768,49,Half tuition
+769,58,Half tuition
+770,64,Half tuition
+771,71,Half tuition
+772,80,Half tuition
+773,91,Half tuition
+774,93,Half tuition
+775,107,Half tuition
+776,111,Half tuition
+777,118,Half tuition
+778,124,Half tuition
+779,125,Half tuition
+780,135,Half tuition
+781,141,Half tuition
+782,143,Half tuition
+783,146,Half tuition
+784,155,Half tuition
+785,156,Half tuition
+786,161,Half tuition
+787,178,Half tuition
+788,181,Half tuition
+789,182,Half tuition
+790,184,Half tuition
+791,190,Half tuition
+792,191,Half tuition
+793,201,Half tuition
+794,207,Half tuition
+795,212,Half tuition
+796,216,Half tuition
+797,222,Half tuition
+798,224,Half tuition
+799,233,Half tuition
+800,237,Half tuition
+801,238,Half tuition
+802,245,Half tuition
+803,247,Half tuition
+804,252,Half tuition
+805,258,Half tuition
+806,260,Half tuition
+807,262,Half tuition
+808,270,Half tuition
+809,282,Half tuition
+810,284,Half tuition
+811,289,Half tuition
+812,292,Half tuition
+813,301,Half tuition
+814,302,Half tuition
+815,303,Half tuition
+816,307,Half tuition
+817,315,Half tuition
+818,317,Half tuition
+819,321,Half tuition
+820,323,Half tuition
+821,332,Half tuition
+822,369,Half tuition
+823,372,Half tuition
+824,373,Half tuition
+825,377,Half tuition
+826,378,Half tuition
+827,380,Half tuition
+828,388,Half tuition
+829,398,Half tuition
+830,400,Half tuition
+831,410,Half tuition
+832,411,Half tuition
+833,412,Half tuition
+834,414,Half tuition
+835,418,Half tuition
+836,427,Half tuition
+837,433,Half tuition
+838,440,Half tuition
+839,442,Half tuition
+840,458,Half tuition
+841,461,Half tuition
+842,476,Half tuition
+843,478,Half tuition
+844,481,Half tuition
+845,482,Half tuition
+846,485,Half tuition
+847,490,Half tuition
+848,491,Half tuition
+849,493,Half tuition
+850,494,Half tuition
+851,500,Half tuition
+852,506,Half tuition
+853,514,Half tuition
+854,526,Half tuition
+855,528,Half tuition
+856,531,Half tuition
+857,533,Half tuition
+858,537,Half tuition
+859,538,Half tuition
+860,540,Half tuition
+861,543,Half tuition
+862,545,Half tuition
+863,549,Half tuition
+864,550,Half tuition
+865,552,Half tuition
+866,554,Half tuition
+867,560,Half tuition
+868,561,Half tuition
+869,570,Half tuition
+870,578,Half tuition
+871,584,Half tuition
+872,591,Half tuition
+873,592,Half tuition
+874,600,Half tuition
+875,601,Half tuition
+876,606,Half tuition
+877,611,Half tuition
+878,615,Half tuition
+879,616,Half tuition
+880,620,Half tuition
+881,621,Half tuition
+882,622,Half tuition
+883,627,Half tuition
+884,629,Half tuition
+885,631,Half tuition
+886,632,Half tuition
+887,641,Half tuition
+888,647,Half tuition
+889,648,Half tuition
+890,649,Half tuition
+891,651,Half tuition
+892,654,Half tuition
+893,655,Half tuition
+894,657,Half tuition
+895,662,Half tuition
+896,666,Half tuition
+897,674,Half tuition
+898,680,Half tuition
+899,681,Half tuition
+900,682,Half tuition
+901,685,Half tuition
+902,690,Half tuition
+903,691,Half tuition
+904,693,Half tuition
+905,694,Half tuition
+906,696,Half tuition
+907,699,Half tuition
+908,708,Half tuition
+909,710,Half tuition
+910,712,Half tuition
+911,713,Half tuition
+912,731,Half tuition
+913,734,Half tuition
+914,736,Half tuition
+915,744,Half tuition
+916,776,Half tuition
+917,777,Half tuition
+918,778,Half tuition
+919,782,Half tuition
+920,783,Half tuition
+921,790,Half tuition
+922,791,Half tuition
+923,792,Half tuition
+924,796,Half tuition
+925,802,Half tuition
+926,806,Half tuition
+927,813,Half tuition
+928,818,Half tuition
+929,820,Half tuition
+930,821,Half tuition
+931,823,Half tuition
+932,826,Half tuition
+933,830,Half tuition
+934,831,Half tuition
+935,833,Half tuition
+936,839,Half tuition
+937,843,Half tuition
+938,849,Half tuition
+939,851,Half tuition
+940,852,Half tuition
+941,862,Half tuition
+942,863,Half tuition
+943,874,Half tuition
+944,878,Half tuition
+945,879,Half tuition
+946,880,Half tuition
+947,884,Half tuition
+948,896,Half tuition
+949,899,Half tuition
+950,903,Half tuition
+951,906,Half tuition
+952,914,Half tuition
+953,931,Half tuition
+954,933,Half tuition
+955,936,Half tuition
+956,938,Half tuition
+957,946,Half tuition
+958,947,Half tuition
+959,952,Half tuition
+960,963,Half tuition
+961,977,Half tuition
+962,982,Half tuition
+963,987,Half tuition
+964,989,Half tuition
+965,991,Half tuition
+966,995,Half tuition
+967,997,Half tuition
+968,1000,Half tuition
+969,1002,Half tuition
+970,1003,Half tuition
+971,1005,Half tuition
+972,1006,Half tuition
+973,1008,Half tuition
+974,1009,Half tuition
+975,1014,Half tuition
+976,1020,Half tuition
+977,1021,Half tuition
+978,1028,Half tuition
+979,1030,Half tuition
+980,1032,Half tuition
+981,1036,Half tuition
+982,1046,Half tuition
+983,1049,Half tuition
+984,1051,Half tuition
+985,1054,Half tuition
+986,1055,Half tuition
+987,1056,Half tuition
+988,1061,Half tuition
+989,1066,Half tuition
+990,1067,Half tuition
+991,1071,Half tuition
+992,1072,Half tuition
+993,1073,Half tuition
+994,1074,Half tuition
+995,1081,Half tuition
+996,1083,Half tuition
+997,1085,Half tuition
+998,1088,Half tuition
+999,1090,Half tuition
+1000,1094,Half tuition
+1001,1095,Half tuition
+1002,1105,Half tuition
+1003,1107,Half tuition
+1004,1111,Half tuition
+1005,1116,Half tuition
+1006,1118,Half tuition
+1007,1124,Half tuition
+1008,1125,Half tuition
+1009,1127,Half tuition
+1010,1131,Half tuition
+1011,1133,Half tuition
+1012,1137,Half tuition
+1013,1138,Half tuition
+1014,1142,Half tuition
+1015,1150,Half tuition
+1016,1152,Half tuition
+1017,1154,Half tuition
+1018,1158,Half tuition
+1019,1159,Half tuition
+1020,1170,Half tuition
+1021,1173,Half tuition
+1022,1174,Half tuition
+1023,1175,Half tuition
+1024,1181,Half tuition
+1025,1185,Half tuition
+1026,2,Fullride
+1027,3,Fullride
+1028,6,Fullride
+1029,10,Fullride
+1030,15,Fullride
+1031,20,Fullride
+1032,22,Fullride
+1033,24,Fullride
+1034,26,Fullride
+1035,27,Fullride
+1036,30,Fullride
+1037,31,Fullride
+1038,37,Fullride
+1039,38,Fullride
+1040,39,Fullride
+1041,41,Fullride
+1042,42,Fullride
+1043,44,Fullride
+1044,56,Fullride
+1045,57,Fullride
+1046,65,Fullride
+1047,68,Fullride
+1048,70,Fullride
+1049,73,Fullride
+1050,75,Fullride
+1051,76,Fullride
+1052,77,Fullride
+1053,78,Fullride
+1054,82,Fullride
+1055,83,Fullride
+1056,84,Fullride
+1057,85,Fullride
+1058,87,Fullride
+1059,88,Fullride
+1060,90,Fullride
+1061,91,Fullride
+1062,92,Fullride
+1063,94,Fullride
+1064,95,Fullride
+1065,97,Fullride
+1066,98,Fullride
+1067,99,Fullride
+1068,103,Fullride
+1069,108,Fullride
+1070,109,Fullride
+1071,111,Fullride
+1072,112,Fullride
+1073,117,Fullride
+1074,126,Fullride
+1075,128,Fullride
+1076,132,Fullride
+1077,133,Fullride
+1078,139,Fullride
+1079,141,Fullride
+1080,144,Fullride
+1081,145,Fullride
+1082,148,Fullride
+1083,151,Fullride
+1084,157,Fullride
+1085,158,Fullride
+1086,160,Fullride
+1087,161,Fullride
+1088,162,Fullride
+1089,166,Fullride
+1090,172,Fullride
+1091,179,Fullride
+1092,183,Fullride
+1093,185,Fullride
+1094,186,Fullride
+1095,187,Fullride
+1096,193,Fullride
+1097,194,Fullride
+1098,196,Fullride
+1099,197,Fullride
+1100,200,Fullride
+1101,202,Fullride
+1102,203,Fullride
+1103,209,Fullride
+1104,210,Fullride
+1105,211,Fullride
+1106,216,Fullride
+1107,219,Fullride
+1108,221,Fullride
+1109,223,Fullride
+1110,225,Fullride
+1111,226,Fullride
+1112,228,Fullride
+1113,231,Fullride
+1114,232,Fullride
+1115,236,Fullride
+1116,239,Fullride
+1117,240,Fullride
+1118,241,Fullride
+1119,242,Fullride
+1120,246,Fullride
+1121,248,Fullride
+1122,250,Fullride
+1123,254,Fullride
+1124,255,Fullride
+1125,257,Fullride
+1126,261,Fullride
+1127,263,Fullride
+1128,264,Fullride
+1129,266,Fullride
+1130,268,Fullride
+1131,269,Fullride
+1132,272,Fullride
+1133,274,Fullride
+1134,276,Fullride
+1135,277,Fullride
+1136,278,Fullride
+1137,280,Fullride
+1138,281,Fullride
+1139,285,Fullride
+1140,286,Fullride
+1141,291,Fullride
+1142,292,Fullride
+1143,295,Fullride
+1144,297,Fullride
+1145,300,Fullride
+1146,308,Fullride
+1147,310,Fullride
+1148,314,Fullride
+1149,316,Fullride
+1150,318,Fullride
+1151,319,Fullride
+1152,322,Fullride
+1153,325,Fullride
+1154,328,Fullride
+1155,329,Fullride
+1156,331,Fullride
+1157,334,Fullride
+1158,335,Fullride
+1159,336,Fullride
+1160,338,Fullride
+1161,339,Fullride
+1162,341,Fullride
+1163,342,Fullride
+1164,343,Fullride
+1165,346,Fullride
+1166,347,Fullride
+1167,350,Fullride
+1168,354,Fullride
+1169,356,Fullride
+1170,358,Fullride
+1171,362,Fullride
+1172,363,Fullride
+1173,366,Fullride
+1174,368,Fullride
+1175,370,Fullride
+1176,371,Fullride
+1177,376,Fullride
+1178,381,Fullride
+1179,383,Fullride
+1180,386,Fullride
+1181,390,Fullride
+1182,391,Fullride
+1183,392,Fullride
+1184,403,Fullride
+1185,404,Fullride
+1186,405,Fullride
+1187,406,Fullride
+1188,407,Fullride
+1189,408,Fullride
+1190,411,Fullride
+1191,413,Fullride
+1192,419,Fullride
+1193,421,Fullride
+1194,422,Fullride
+1195,423,Fullride
+1196,425,Fullride
+1197,426,Fullride
+1198,428,Fullride
+1199,429,Fullride
+1200,432,Fullride
+1201,434,Fullride
+1202,436,Fullride
+1203,445,Fullride
+1204,447,Fullride
+1205,449,Fullride
+1206,451,Fullride
+1207,452,Fullride
+1208,453,Fullride
+1209,455,Fullride
+1210,459,Fullride
+1211,460,Fullride
+1212,462,Fullride
+1213,464,Fullride
+1214,467,Fullride
+1215,472,Fullride
+1216,473,Fullride
+1217,474,Fullride
+1218,475,Fullride
+1219,480,Fullride
+1220,481,Fullride
+1221,486,Fullride
+1222,487,Fullride
+1223,488,Fullride
+1224,492,Fullride
+1225,496,Fullride
+1226,499,Fullride
+1227,502,Fullride
+1228,503,Fullride
+1229,505,Fullride
+1230,507,Fullride
+1231,509,Fullride
+1232,518,Fullride
+1233,519,Fullride
+1234,524,Fullride
+1235,536,Fullride
+1236,543,Fullride
+1237,544,Fullride
+1238,546,Fullride
+1239,547,Fullride
+1240,548,Fullride
+1241,550,Fullride
+1242,553,Fullride
+1243,556,Fullride
+1244,558,Fullride
+1245,564,Fullride
+1246,566,Fullride
+1247,567,Fullride
+1248,568,Fullride
+1249,573,Fullride
+1250,574,Fullride
+1251,575,Fullride
+1252,582,Fullride
+1253,583,Fullride
+1254,587,Fullride
+1255,589,Fullride
+1256,590,Fullride
+1257,594,Fullride
+1258,596,Fullride
+1259,597,Fullride
+1260,603,Fullride
+1261,605,Fullride
+1262,608,Fullride
+1263,610,Fullride
+1264,614,Fullride
+1265,615,Fullride
+1266,616,Fullride
+1267,617,Fullride
+1268,619,Fullride
+1269,623,Fullride
+1270,624,Fullride
+1271,628,Fullride
+1272,636,Fullride
+1273,640,Fullride
+1274,645,Fullride
+1275,652,Fullride
+1276,658,Fullride
+1277,659,Fullride
+1278,664,Fullride
+1279,665,Fullride
+1280,667,Fullride
+1281,668,Fullride
+1282,669,Fullride
+1283,671,Fullride
+1284,672,Fullride
+1285,676,Fullride
+1286,677,Fullride
+1287,678,Fullride
+1288,686,Fullride
+1289,688,Fullride
+1290,691,Fullride
+1291,694,Fullride
+1292,697,Fullride
+1293,698,Fullride
+1294,700,Fullride
+1295,701,Fullride
+1296,702,Fullride
+1297,711,Fullride
+1298,714,Fullride
+1299,715,Fullride
+1300,717,Fullride
+1301,718,Fullride
+1302,721,Fullride
+1303,722,Fullride
+1304,724,Fullride
+1305,730,Fullride
+1306,732,Fullride
+1307,733,Fullride
+1308,736,Fullride
+1309,737,Fullride
+1310,747,Fullride
+1311,748,Fullride
+1312,750,Fullride
+1313,755,Fullride
+1314,756,Fullride
+1315,757,Fullride
+1316,761,Fullride
+1317,763,Fullride
+1318,765,Fullride
+1319,766,Fullride
+1320,770,Fullride
+1321,771,Fullride
+1322,773,Fullride
+1323,774,Fullride
+1324,777,Fullride
+1325,779,Fullride
+1326,784,Fullride
+1327,794,Fullride
+1328,795,Fullride
+1329,798,Fullride
+1330,799,Fullride
+1331,801,Fullride
+1332,814,Fullride
+1333,817,Fullride
+1334,819,Fullride
+1335,822,Fullride
+1336,825,Fullride
+1337,829,Fullride
+1338,835,Fullride
+1339,846,Fullride
+1340,850,Fullride
+1341,853,Fullride
+1342,855,Fullride
+1343,856,Fullride
+1344,858,Fullride
+1345,859,Fullride
+1346,860,Fullride
+1347,861,Fullride
+1348,865,Fullride
+1349,867,Fullride
+1350,868,Fullride
+1351,869,Fullride
+1352,870,Fullride
+1353,872,Fullride
+1354,876,Fullride
+1355,877,Fullride
+1356,881,Fullride
+1357,883,Fullride
+1358,887,Fullride
+1359,888,Fullride
+1360,890,Fullride
+1361,891,Fullride
+1362,896,Fullride
+1363,897,Fullride
+1364,898,Fullride
+1365,901,Fullride
+1366,902,Fullride
+1367,905,Fullride
+1368,908,Fullride
+1369,909,Fullride
+1370,910,Fullride
+1371,917,Fullride
+1372,918,Fullride
+1373,919,Fullride
+1374,923,Fullride
+1375,924,Fullride
+1376,925,Fullride
+1377,926,Fullride
+1378,928,Fullride
+1379,929,Fullride
+1380,931,Fullride
+1381,932,Fullride
+1382,940,Fullride
+1383,941,Fullride
+1384,942,Fullride
+1385,945,Fullride
+1386,950,Fullride
+1387,951,Fullride
+1388,954,Fullride
+1389,955,Fullride
+1390,956,Fullride
+1391,957,Fullride
+1392,958,Fullride
+1393,959,Fullride
+1394,961,Fullride
+1395,966,Fullride
+1396,967,Fullride
+1397,968,Fullride
+1398,969,Fullride
+1399,970,Fullride
+1400,971,Fullride
+1401,972,Fullride
+1402,974,Fullride
+1403,978,Fullride
+1404,980,Fullride
+1405,996,Fullride
+1406,1006,Fullride
+1407,1007,Fullride
+1408,1011,Fullride
+1409,1015,Fullride
+1410,1022,Fullride
+1411,1031,Fullride
+1412,1033,Fullride
+1413,1035,Fullride
+1414,1041,Fullride
+1415,1043,Fullride
+1416,1050,Fullride
+1417,1059,Fullride
+1418,1061,Fullride
+1419,1064,Fullride
+1420,1073,Fullride
+1421,1077,Fullride
+1422,1080,Fullride
+1423,1081,Fullride
+1424,1091,Fullride
+1425,1093,Fullride
+1426,1101,Fullride
+1427,1106,Fullride
+1428,1110,Fullride
+1429,1113,Fullride
+1430,1114,Fullride
+1431,1123,Fullride
+1432,1128,Fullride
+1433,1134,Fullride
+1434,1135,Fullride
+1435,1136,Fullride
+1436,1140,Fullride
+1437,1143,Fullride
+1438,1147,Fullride
+1439,1155,Fullride
+1440,1162,Fullride
+1441,1163,Fullride
+1442,1166,Fullride
+1443,1171,Fullride
+1444,1179,Fullride
+1445,1181,Fullride
+1446,1182,Fullride
