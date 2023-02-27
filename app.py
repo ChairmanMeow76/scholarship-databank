@@ -5,6 +5,8 @@ from os.path import join
 from json import load
 import plotly.express as px
 
+st.set_page_config(page_title='Scholarship Dumpster', layout= 'wide')
+
 @st.cache_resource
 def get_scholarship_data():
     return {
