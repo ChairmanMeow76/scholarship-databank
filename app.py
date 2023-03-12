@@ -3,9 +3,9 @@ import pandas as pd
 from os import listdir
 from os.path import join 
 from json import load
-import plotly.express as px
+#import plotly.express as px
 
-st.set_page_config(page_title='Scholarship Dumpster', layout= 'wide')
+st.set_page_config(page_title='Scholarship Database', layout= 'wide')
 
 @st.cache_resource
 def get_scholarship_data():
@@ -32,16 +32,12 @@ geo_data = get_geo_data()
 df = get_scholarship_data()
 
 st.header('Welcome to the scholarship hunter database')
+st.markdown("""*From an aspiring data analyst* ([Please hire me](https://drive.google.com/file/d/1xbqFTy-Xc8rsQoHbbcnTa55fVpJtqSBk/view?usp=sharing), I am looking for an internship)""")
 st.markdown("""
-    **Note**: some regions may not show on the map for different reasons(Europe: too big, Singapore: too small, Hong Kong: territory), but don't worry it will still show up on the table.
-""")
-st.markdown("""
-    Multidisciplinary is set as default as it encompasses all other disciplines.
-""")
-st.markdown("""
+    Multidisciplinary is set as default as it encompasses all other disciplines.\\
     Unknown is set as default for country since it may overlap with your preference
 """)
-st.markdown("### Good luck")
+st.markdown("""**Some link may be unusable due to changes in url**""")
 
 country_preference = st.multiselect('country',df['scholarships'].host.unique(),default='Unknown')
 deadline_preference = st.multiselect('deadline',df['deadlines'].deadline.unique())
@@ -86,19 +82,20 @@ if search_button:
 
     preferred_df = preferred_df.join([deadline_match, discipline_match, level_match, value_match], how='inner', sort=True)
     
-    choropleth_df = preferred_df.groupby(['country_id', 'host'])['country_id'].count()
-    fig = px.choropleth(
-        geojson=geo_data, 
-        locations=[i[0] for i in choropleth_df.index], 
-        color=choropleth_df.values,
-        color_continuous_scale='Peach',
-        hover_name=[i[1] for i in choropleth_df.index]
-    )
-    fig.update_geos(fitbounds="locations",visible=False)
-    fig.update_layout(margin={"r":0,"t":0,"l":0,"b":0})
+    #choropleth_df = preferred_df.groupby(['country_id', 'host'])['country_id'].count()
+    #fig = px.choropleth(
+    #    geojson=geo_data, 
+    #    locations=[i[0] for i in choropleth_df.index], 
+    #    color=choropleth_df.values,
+    #    color_continuous_scale='Peach',
+    #    hover_name=[i[1] for i in choropleth_df.index]
+    #)
+    #fig.update_geos(fitbounds="locations",visible=False)
+    #fig.update_layout(margin={"r":0,"t":0,"l":0,"b":0})
     
-    st.plotly_chart(fig,use_container_width=True)
-    st.write(preferred_df)
+    #st.plotly_chart(fig,use_container_width=True)
+    st.write(preferred_df[['sponsor','host','link','note','country_id','deadline','discipline','study_level','value']])
+    
 
 
 
