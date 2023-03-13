@@ -94,7 +94,7 @@ if search_button:
     #fig.update_layout(margin={"r":0,"t":0,"l":0,"b":0})
     
     #st.plotly_chart(fig,use_container_width=True)
-    st.write(preferred_df[['sponsor','study_level','value','host','link','note','deadline','discipline']])
+    st.write(preferred_df[['sponsor','discipline','study_level','value','host','link','note','deadline']])
     
 
 
